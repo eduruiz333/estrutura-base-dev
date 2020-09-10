@@ -25,6 +25,10 @@ Repare que na linha de comando acima instalamos também uma outro plugin chamado
 
 Você precisará criar um arquivo dentro do diretório raiz do seu projeto chamado gulpfile.js e incluir todas as variáveis dos plugins que acabamos de instalar. Neste arquivo, vamos criar a tarefa chamada “sass”.
 
-### EXEMPLO DE CONFIGURAÇÃO DO PACKAGE.JSON
+#### EXEMPLO DE CONFIGURAÇÃO DO GULPFILE.JS
+
+https://gist.github.com/eduruiz333/a085fe57de3dbe14a261848905ecdb69
+
+#### EXEMPLO DE CONFIGURAÇÃO DO PACKAGE.JSON
 
 https://gist.github.com/eduruiz333/f2ba26fd412604696974f2b7f9283c36

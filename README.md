@@ -32,3 +32,5 @@ https://gist.github.com/eduruiz333/a085fe57de3dbe14a261848905ecdb69
 #### EXEMPLO DE CONFIGURAÇÃO DO PACKAGE.JSON
 
 https://gist.github.com/eduruiz333/f2ba26fd412604696974f2b7f9283c36
+
+Gulp já era
